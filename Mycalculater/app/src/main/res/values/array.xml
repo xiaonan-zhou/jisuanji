@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jinzhi">
+        <item>二进制</item>
+        <item>八进制</item>
+        <item>十进制</item>
+        <item>十六进制</item>
+    </string-array>
+    <string-array name="changdu">
+        <item>公里</item>
+        <item>英里</item>
+        <item>米</item>
+        <item>英尺</item>
+    </string-array>
+    <string-array name="tiji">
+        <item>立方公里</item>
+        <item>立方米</item>
+        <item>升</item>
+    </string-array>
+</resources>
